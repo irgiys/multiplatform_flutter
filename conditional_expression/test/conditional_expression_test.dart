@@ -1,0 +1,8 @@
+import 'package:conditional_expression/conditional_expression.dart';
+import 'package:test/test.dart';
+
+void main() {
+  test('calculate', () {
+    // expect(calculate(), 42);
+  });
+}
